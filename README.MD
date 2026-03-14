@@ -1,43 +1,55 @@
-
-
-<div align="center">
-  
-╰☆☆  ｆｌｏａｔｉｎｇ  ｉｎ  ｍｙ  ｄｒｅａｍｓ  ☆☆╮
-
-</div>
-
-nowadays i keep most of my projects closed source,
-but here's where some of them live:
+# ☾⋆｡°✩  floating in my dreams  ✩°｡⋆☽
 
 <div align="center">
   
-[ **rawlyx** ](https://rawlyx.web.app)   ✦   [ **kikbio** ](https://kikbio.web.app)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=435&lines=✧+closed+source+dreamer+✧;✧+open+source+occasionally+✧" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<h3 align="center">✦ languages i dream in ✦</h3>
+<div align="center">
+  
+### ✧ my web spaces ✧
 
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<br>
+
+<a href="https://rawlyx.web.app">rawlyx.web.app</a> &nbsp;&nbsp;✦&nbsp;&nbsp; <a href="https://kikbio.web.app">kikbio.web.app</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### ✧ open source ✧
+
+<br>
+
+<a href="https://github.com/TheDevMarcus/Discord-Account-Generator-Bot">discord account generator bot</a>
+<br>
+<a href="https://github.com/TheDevMarcus/ChipsWordle">chips wordle</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### ✧ languages i dream in ✧
+
+<br>
+
+<a href="https://www.w3schools.com/cs/">c#</a> &nbsp;&nbsp;✦&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a> &nbsp;&nbsp;✦&nbsp;&nbsp; <a href="https://nodejs.org">node.js</a> &nbsp;&nbsp;✦&nbsp;&nbsp; <a href="https://www.python.org">python</a>
+
+</div>
 
 <br>
 
 ---
 
 <div align="center">
-  <sub>⋆｡°✩ sometimes the best code is the one you keep for yourself ✩°｡⋆</sub>
+  
+⋆｡°✩ sometimes the best code is the one you keep for yourself ✩°｡⋆
+
 </div>
