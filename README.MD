@@ -1,10 +1,9 @@
 # ☾⋆｡°✩  floating in my dreams  ✩°｡⋆☽
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=435&lines=✧+closed+source+dreamer+✧;✧+open+source+occasionally+✧;✧+floating+in+my+dreams+✧" alt="Typing SVG" />
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=1000&random=false&width=435&lines=✧+floating+in+my+dreams+✧;✧+closed+source+dreamer+✧;✧+open+source+occasionally+✧)](https://git.io/typing-svg)
+
 <br>
 
 ---
